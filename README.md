@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<div>
+<body>
+  <h1>Hi am Christian am 25 years and am learning web development</h1>
+  <div>
   <p>
-    Hey mi name is Christian 
+    Am a biomedical Engeenier
   </p>
 </div>
 <div id="header" aling="center">
@@ -14,6 +16,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+</body>
+
 
 <!--
 **alexchris99/alexchris99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
