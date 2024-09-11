@@ -2,7 +2,8 @@
   <h1>Hi am Christian am 25 years and am learning web development 👋</h1>
   <div>
   <p>
-    Am a biomedical Engeenier
+    Am a biomedical Engeenier<br>
+    I have basic experiene in HTML, CSS, SASS, C#, Javascript, Python and Matlab.
   </p>
 </div>
 <div id="header" aling="center">
