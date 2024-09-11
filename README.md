@@ -10,10 +10,6 @@
 
 <div id="header" aling="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyd241Y2dxeDdsN3Z5bndyYm9qaGY0ZTJnMm9kcWEwam1jcDVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
-</div>
-
-<div id="header" aling="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyd241Y2dxeDdsN3Z5bndyYm9qaGY0ZTJnMm9kcWEwam1jcDVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hydDVhcmRsMXp0Ymo5cHVpM3I4dnpvaHg4b2R5bmRmY2x3cW9kdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
