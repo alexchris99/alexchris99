@@ -3,7 +3,7 @@
   <div>
   <p>
     Am a biomedical Engeenier<br>
-    I have basic experiene in HTML, CSS, SASS, C#, Javascript, Python and Matlab.
+    I have basic experiene in HTML, CSS, SASS, C#, Javascript, Python, SQL and Matlab.
   </p>
 </div>
 <div id="header" aling="center">
