@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <body>
-  <h1>Hi am Christian am 25 years and am learning web development</h1>
+  <h1>Hi am Christian am 25 years and am learning web development 👋</h1>
   <div>
   <p>
     Am a biomedical Engeenier
