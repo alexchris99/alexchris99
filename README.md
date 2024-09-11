@@ -3,8 +3,10 @@
   
   <div>
   <p>
-    Am a biomedical Engeenier<br>
-    I have basic experiene in HTML, CSS, SASS, C#, Javascript, Python, SQL and Matlab.
+    Am a biomedical Engeenier.<br>
+    I have basic experiene in HTML, CSS, SASS, C#, Javascript, Python, SQL and Matlab.<br>
+    Am from Guadalaja, Mexico.<br>
+    Am currently studing Web-Development in Cornerstone International Community College of Canada
   </p>
 </div>
 
