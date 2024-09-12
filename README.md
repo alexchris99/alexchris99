@@ -1,14 +1,10 @@
-<body>
-  <h1>Hi am Christian am 25 years and am learning web development 👋</h1>
-  
-  <div>
-  <p>
+#Hi am Christian am 25 years and am learning web development 👋
+
     Am a biomedical Engeenier.<br>
     I have basic experiene in HTML, CSS, SASS, C#, Javascript, Python, SQL and Matlab.<br>
     Am from Guadalaja, Mexico.<br>
     Am currently studing Web-Development in Cornerstone International Community College of Canada
-  </p>
-</div>
+
 
 <div id="header" aling="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyd241Y2dxeDdsN3Z5bndyYm9qaGY0ZTJnMm9kcWEwam1jcDVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
