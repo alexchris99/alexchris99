@@ -27,7 +27,7 @@ Am from Guadalaja, Mexico.
     <img src="https://banner2.cleanpng.com/20180806/xqr/b88519fb9b5d5ce25c0f2a73eab7810d.webp" width="80" alt="Facebook Logo"/>
   </a>
   <a href="https://www.instagram.com/alex.jimenez.t/">
-    <img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-premium-vector-PNG.png" width="28.5"/>
+    <img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-premium-vector-PNG.png" width="28.5" alt="Instagram Logo"/>
   </a>
   <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-jobsearch--indeedmobile">
     <img src="https://1000logos.net/wp-content/uploads/2023/01/Indeed-logo.png" width="70"/>
