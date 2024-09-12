@@ -9,7 +9,8 @@ I have basic experiene in:
 - Javascript (less than a year)
 - Python (1 year)
 - SQL  (less tan a year)
-- Matlab. (4 years)
+- Matlab (4 years)
+- Git & GitHub
 
 Am from Guadalaja, Mexico.  
 **Am currently studing Web-Development in Cornerstone International Community College of Canada.** 
