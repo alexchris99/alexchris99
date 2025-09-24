@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian A. Jimenez</h1>
 <h3 align="center">A passionate Developer and Biomedical Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexchris99" alt="alexchris99" /></a> </p>
+
 
 - 👨‍💻 Portfolio [https://portfolio-chi-orcin-90.vercel.app/](https://portfolio-chi-orcin-90.vercel.app/)
 
