@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Christian A. Jimenez</h1> 
   <h3 align="center">A passionate Developer and Biomedical Engineer</h3> 
  <p>
-  <a href="https://portfolio-chi-orcin-90.vercel.app/" target="_blank" style="color: #00e0ff; text-decoration: none;">
+  <a href="https://portfolio-chi-orcin-90.vercel.app/" target="blank" style="color: #00e0ff; text-decoration: none;">
     👨‍💻 Portfolio
   </a>
 </p> 
