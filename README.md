@@ -1,9 +1,13 @@
 <section> 
   <h1 align="center">Hi 👋, I'm Christian A. Jimenez</h1> 
   <h3 align="center">A passionate Developer and Biomedical Engineer</h3> 
-  - 👨‍💻 Portfolio [https://portfolio-chi-orcin-90.vercel.app/](https://portfolio-chi-orcin-90.vercel.app/) 
-  - 📫 Contact me **cajt@outlook.com** 
-  - ⚡ Fun fact **I love BJJ and try to practice as much as I can** 
+ <p>
+  <a href="https://portfolio-chi-orcin-90.vercel.app/" target="_blank" style="color: #00e0ff; text-decoration: none;">
+    👨‍💻 Portfolio
+  </a>
+</p> 
+  <p> 📫 Contact me: cajt@outlook.com.</p>
+  <p> ⚡ Fun fact: I love BJJ and try to practice as much as I can./p>
   <h3 align="left">Connect with me:</h3> <p align="left"> 
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-jimenez-1106b8147/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="https://www.linkedin.com/in/christian-jimenez-1106b8147/" height="30" width="40" />
