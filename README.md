@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christian A. Jimenez</h1>
+<section>
+  <h1 align="center">Hi 👋, I'm Christian A. Jimenez</h1>
 <h3 align="center">A passionate Developer and Biomedical Engineer</h3>
 
 
@@ -24,5 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexchris99&show_icons=true&locale=en" alt="alexchris99" /></p>
 
 
+</section>
 
 
